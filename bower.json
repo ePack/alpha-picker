@@ -1,0 +1,23 @@
+{
+  "name": "epack-alpha-picker",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ePack/alpha-picker",
+  "authors": [
+    "Maik Hummel <maik@eclip.io>"
+  ],
+  "description": "",
+  "main": "epack-alpha-picker.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-slider": "polymerElements/paper-slider#~1.0.9",
+    "paper-ripple": "polymerElements/paper-ripple#~1.0.5"
+  }
+}
